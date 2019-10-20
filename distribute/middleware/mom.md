@@ -1,0 +1,1 @@
+[消息中间件总结](https://www6v.github.io/www6vHomeHexo/2016/04/19/mom/)   
