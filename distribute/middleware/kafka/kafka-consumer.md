@@ -1,1 +1,0 @@
-[Kafka消费者总结](https://www6v.github.io/www6vHomeHexo/2016/06/25/kafka-consumer/)

@@ -1,1 +1,0 @@
-[消息可靠性总结(已废弃)](https://www6v.github.io/www6vHomeHexo/2016/03/17/reliabilityOfMsg/)
